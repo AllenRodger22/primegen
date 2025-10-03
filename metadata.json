@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Prime Number Generator",
+  "description": "A web application that continuously generates prime numbers using a non-blocking algorithm. It displays the found primes in real-time and allows users to download the complete list as a CSV file.",
+  "requestFramePermissions": []
+}
